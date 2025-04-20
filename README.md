@@ -42,7 +42,6 @@ Cybersecurity Analyst | Cloud Security Enthusiast | Devoted to Hands-on Learning
 
 ### 📫 Let’s Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/falynne-armstrong/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falynne-armstrong/)
+
 

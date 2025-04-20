@@ -20,6 +20,19 @@ I’m a hands-on cybersecurity analyst with a passion for cloud security, threat
 
 ---
 
+### 🛡️ Skills in Action
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Threat%20Detection-informational?style=for-the-badge&color=blue" alt="Threat Detection"/>
+  <img src="https://img.shields.io/badge/Cloud%20Security-informational?style=for-the-badge&color=blue" alt="Cloud Security"/>
+  <img src="https://img.shields.io/badge/Blue%20Team%20Ops-informational?style=for-the-badge&color=blue" alt="Blue Team Ops"/>
+  <img src="https://img.shields.io/badge/Automation%20%26%20Scripting-informational?style=for-the-badge&color=blue" alt="Automation and Scripting"/>
+  <img src="https://img.shields.io/badge/Vulnerability%20Management-informational?style=for-the-badge&color=blue" alt="Vulnerability Management"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-informational?style=for-the-badge&color=blue" alt="Incident Response"/>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -27,18 +40,6 @@ I’m a hands-on cybersecurity analyst with a passion for cloud security, threat
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-
-### 🛡️ Skills in Action
-
-| Area | Skills |
-|------|--------|
-| Threat Detection | Python, Honeypots, Brute Force Simulation |
-| Cloud Security | Azure RBAC, IAM, PowerShell Automation |
-| Blue Team Ops | Splunk, EDR, Incident Response |
-| Automation | Jira Integration, SOAR, Slack Alerts |
 
 ---
 

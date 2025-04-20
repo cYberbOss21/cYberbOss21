@@ -30,6 +30,18 @@ I’m a hands-on cybersecurity analyst with a passion for cloud security, threat
 
 ---
 
+
+### 🛡️ Skills in Action
+
+| Area | Skills |
+|------|--------|
+| Threat Detection | Python, Honeypots, Brute Force Simulation |
+| Cloud Security | Azure RBAC, IAM, PowerShell Automation |
+| Blue Team Ops | Splunk, EDR, Incident Response |
+| Automation | Jira Integration, SOAR, Slack Alerts |
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Skills / Tools |
@@ -40,14 +52,6 @@ I’m a hands-on cybersecurity analyst with a passion for cloud security, threat
 | [🧠 SOAR + EDR Lab](https://github.com/cYberbOss21/SOAR-EDR) | Simulated automated threat response integrating SOAR tools with EDR alerts | SOAR, EDR, Incident Response |
 | [🕵🏾 Cowrie Honeypot + Slack Alerts](https://github.com/cYberbOss21/Cowrie-Honeypot-) | Captured attacker behavior and sent alerts to Slack via webhook | Honeypots, Threat Intel, Logging, Slack Automation |
 
-
----
-
-### 🏆 Project Spotlight: Cowrie Honeypot + Slack Alerts
-
-Tracked malicious SSH traffic with Cowrie and automated alerts to Slack. Gained insights into attacker behavior and built detection logic using logs.
-
-[**View Full Project →**](https://github.com/cYberbOss21/Cowrie-Honeypot-)
 
 ---
 

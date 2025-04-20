@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/cYberbOss21/cYberbOss21/blob/main/3C5781B1-EF7A-4A7B-BB29-47B522FB1511.png" alt="GitHub Banner" width="100%">
-</p>
+
 
 # 👋🏾 Hi, I'm Falynne
 

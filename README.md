@@ -39,6 +39,20 @@ Cybersecurity Analyst | Cloud Security Enthusiast | Devoted to Hands-on Learning
 
 ---
 
+### 🏆 Project Spotlight: Cowrie Honeypot + Slack Alerts
+
+Tracked malicious SSH traffic with Cowrie and automated alerts to Slack. Gained insights into attacker behavior and built detection logic using logs.
+
+[**View Full Project →**](https://github.com/cYberbOss21/Cowrie-Honeypot-)
+
+---
+
+### 📊 GitHub Stats
+
+![Falynne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cYberbOss21&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cYberbOss21&layout=compact&theme=radical)
+
+---
 
 ### 📫 Let’s Connect
 

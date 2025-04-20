@@ -7,6 +7,7 @@ Cybersecurity Analyst | Cloud Security Enthusiast | Devoted to Hands-on Learning
 ### 🎯 About Me
 
 I’m a hands-on cybersecurity analyst with a passion for cloud security, threat detection, and incident response. I bring projects to life through real-world simulations — from honeypots to SOAR integration — and I’m always learning, building, and sharing. Currently completing my Master’s in Cybersecurity and open to full-time Security Analyst and GRC-related roles
+
 ---
 ### 🧾 Certifications
 
